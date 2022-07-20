@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 6em;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a{
+    color: green;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+#background-image {
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    right: 0px;
+    padding-top: 0;
+    
+}
+
+#left-side {
+    position: relative;
+    display: inline-block
+}
+
+
